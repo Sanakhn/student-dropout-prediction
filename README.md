@@ -15,9 +15,9 @@ Link: https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-
 
 ## Results
 The model's performance is evaluated using accuracy. Here are the results for different algorithms used in the project:
-Random Forest: Accuracy = 74%
-Decision Tree: Accuracy = 73%
-XGBoost Classifier: Accuracy = 72%
+- Random Forest: Accuracy = 74%
+- Decision Tree: Accuracy = 73%
+- XGBoost Classifier: Accuracy = 72%
 
 ## Future Improvements
 - Hyperparameter tuning for improved model performance.
